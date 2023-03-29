@@ -1,0 +1,11 @@
+<html>
+<head>
+<meta charset = "utf-8">
+<title>Навчальний файл HTML</title>
+</head>
+<body>
+<p><H1>Розклад<H1></p><br>
+<H2><i>занять</i>
+<u>на вівторок</u></H2>
+</body>
+</html>
